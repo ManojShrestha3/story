@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  It was the wisdom to fuflfill our dreams.
 =======
  It was the wisdom to fuflfill our dreams.It was the waste
+ 
+>>>>>>> alien-pot
+=======
+ It was the wisdom to fuflfill our dreams.It was the waste of the time.
  
 >>>>>>> alien-pot
